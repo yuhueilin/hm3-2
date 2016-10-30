@@ -16,7 +16,7 @@ body{
 .col {
     display: inline-block;
     width: 25%;
-    height: 420px;
+    height: 500px;
     margin: 20px 4%;
 /*    background: yellow;*/
 }
