@@ -8,7 +8,6 @@ body{
     background-size: cover;
     font-family: Arial;
 }
-
 .playgropud{
     margin: 50px auto;
     width: 85%;
@@ -17,7 +16,7 @@ body{
 .col {
     display: inline-block;
     width: 25%;
-    height: 450px;
+    height: 400px;
     margin: 20px 4%;
 /*    background: yellow;*/
 }
@@ -44,10 +43,10 @@ body{
 /*     background: yellow; */
 }
 .price{
-     height: 80px;
+     height: 70px;
      text-align: center;
-     line-height: 80px;
-     margin: 15px 0 35px;
+     line-height: 70px;
+     margin: 10px 0 25px;
      font-weight: 700;
 /*     background: red;*/
 }
@@ -67,12 +66,12 @@ body{
 }  
 .free{
      height: 25px;
-     width: 150px;
+     width: 140px;
      text-align: center;
      line-height: 25px;
      font-size: 12px;
      border: 1px solid white;
-     border-radius: 2px;
+     border-radius: 4px;
      margin: 0 auto;
 /*     background: orange; */
 }
