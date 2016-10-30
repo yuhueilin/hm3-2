@@ -10,7 +10,8 @@ body{
 }
 .playgropud{
     margin: 50px auto;
-    width: 85%;
+    width: 85;
+    height: 500px;    
 }
 
 .col {
