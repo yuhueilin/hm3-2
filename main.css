@@ -10,8 +10,7 @@ body{
 }
 .playgropud{
     margin: 50px auto;
-    width: 85;
-    height: 500px;    
+    width: 85;  
 }
 
 .col {
@@ -44,15 +43,15 @@ body{
 /*     background: yellow; */
 }
 .price{
-     height: 80px;
+     height: 85px;
      text-align: center;
-     line-height: 80px;
+     line-height: 85px;
      margin: 15px 0 35px;
      font-weight: 700;
 /*     background: red;*/
 }
 .price span{
-    font-size: 70px;
+    font-size: 80px;
     font-weight: 800;
 }
 .price::before{
